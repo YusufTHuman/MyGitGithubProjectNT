@@ -14,6 +14,9 @@ public class AtmProject {
 
         System.out.println("bir kısım kodlar");
         //ysf2
+        System.out.println();
+        //ysf
+
 
     }
 
