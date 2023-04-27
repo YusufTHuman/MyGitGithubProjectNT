@@ -18,6 +18,7 @@ public class AtmProject {
         //ysf3
         System.out.println();
         //localde değişiklik yaptım.
+        //remoteda değişiklik yaptım.
 
     }
 
